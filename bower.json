@@ -1,0 +1,20 @@
+{
+  "name": "angular2-skeleton-bootstrap",
+  "description": "",
+  "main": "",
+  "authors": [
+    "J. Ryan Conklin <jryanconklin@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "uikit": "^2.27.1"
+  }
+}
